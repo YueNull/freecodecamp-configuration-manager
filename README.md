@@ -8,7 +8,7 @@
 
 | # | 项目 | 状态 |
 |---|------|------|
-| 01 | [User Configuration Manager](./01_user-configuration-manager/) | ✅ 已通过 |
+| 01 | [Build a User Configuration Manager](./01_build-a-user-configuration-manager/) | ✅ 已通过 |
 
 ## 运行环境
 
@@ -18,6 +18,6 @@
 ## 如何运行某个 Lab
 
 ```bash
-cd 01_user-configuration-manager
+cd 01_build-a-user-configuration-manager
 python main.py
 ```

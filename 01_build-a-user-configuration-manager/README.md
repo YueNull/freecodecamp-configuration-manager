@@ -1,4 +1,4 @@
-# Lab 01 · User Configuration Manager
+# Lab 01 · Build a User Configuration Manager
 
 freeCodeCamp **Scientific Computing with Python** 认证实验。
 

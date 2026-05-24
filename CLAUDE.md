@@ -9,7 +9,7 @@ freeCodeCamp **Scientific Computing with Python** 认证的个人学习记录。
 ## 运行某个 Lab
 
 ```bash
-cd 01_user-configuration-manager
+cd 01_build-a-user-configuration-manager
 python main.py
 ```
 
